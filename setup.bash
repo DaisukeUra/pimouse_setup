@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by D. Ura
 
 exec 2> /tmp/setup.log
 
